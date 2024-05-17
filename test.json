@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "66474eddfe8c66a6e24b5727",
+    "index": 0,
+    "guid": "799abd8a-2f29-46c9-ad4e-4f8bfe89cbf7",
+    "isActive": true,
+    "balance": "$2,173.71",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "green",
+    "name": "Brock Maldonado",
+    "gender": "male",
+    "company": "COMVEYOR",
+    "email": "brockmaldonado@comveyor.com",
+    "phone": "+1 (972) 462-2814",
+    "address": "534 Little Street, Marienthal, Delaware, 7216",
+    "about": "Labore nostrud ullamco aliqua qui tempor duis ut cupidatat non sunt do incididunt non in. Ullamco eiusmod eu ad excepteur labore duis culpa sint commodo amet duis. Fugiat fugiat reprehenderit non quis enim commodo eiusmod tempor ad. Sint culpa commodo culpa quis nostrud voluptate sunt anim veniam fugiat amet consectetur fugiat enim. Pariatur excepteur tempor laboris officia incididunt. Minim pariatur occaecat ut excepteur ex adipisicing aliquip ipsum ut dolore quis. Adipisicing pariatur excepteur amet nulla ipsum do tempor.\r\n",
+    "registered": "2015-04-15T04:26:48 -05:00",
+    "latitude": 83.340248,
+    "longitude": -44.989807,
+    "tags": [
+      "adipisicing",
+      "quis",
+      "sint",
+      "cillum",
+      "adipisicing",
+      "enim",
+      "proident"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sherri Kaufman"
+      },
+      {
+        "id": 1,
+        "name": "Moss Blackburn"
+      },
+      {
+        "id": 2,
+        "name": "Knapp Albert"
+      }
+    ],
+    "greeting": "Hello, Brock Maldonado! You have 4 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "66474eddfed8289c0f229d89",
+    "index": 1,
+    "guid": "e5bb1eca-b0c8-492b-8dda-db72f74f44e0",
+    "isActive": true,
+    "balance": "$1,776.69",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "green",
+    "name": "Lupe Curtis",
+    "gender": "female",
+    "company": "OPTIQUE",
+    "email": "lupecurtis@optique.com",
+    "phone": "+1 (930) 445-2941",
+    "address": "780 Grove Place, Nescatunga, Washington, 9285",
+    "about": "Deserunt elit ad eu elit dolor occaecat dolor sint est cillum officia. Aliqua culpa ullamco velit id reprehenderit esse occaecat. Aliquip veniam irure commodo proident.\r\n",
+    "registered": "2022-11-02T07:03:53 -05:00",
+    "latitude": 2.496719,
+    "longitude": 11.7088,
+    "tags": [
+      "amet",
+      "incididunt",
+      "eu",
+      "do",
+      "laborum",
+      "ad",
+      "ullamco"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Bennett Moore"
+      },
+      {
+        "id": 1,
+        "name": "Justice Diaz"
+      },
+      {
+        "id": 2,
+        "name": "Imogene Stanton"
+      }
+    ],
+    "greeting": "Hello, Lupe Curtis! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "66474edd1121210bd2e1806f",
+    "index": 2,
+    "guid": "3b9fc4ec-a199-45cf-b14c-90ae526114bb",
+    "isActive": false,
+    "balance": "$1,962.56",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "blue",
+    "name": "Olivia Flores",
+    "gender": "female",
+    "company": "GLASSTEP",
+    "email": "oliviaflores@glasstep.com",
+    "phone": "+1 (998) 505-3810",
+    "address": "530 Chestnut Avenue, Riegelwood, American Samoa, 9827",
+    "about": "Veniam duis dolore ipsum culpa minim commodo eu minim irure enim. Est qui irure exercitation dolore. Adipisicing veniam quis excepteur culpa fugiat cupidatat cillum. Adipisicing exercitation cupidatat excepteur amet aliqua labore amet duis fugiat occaecat ad nisi et. Irure consectetur dolor consectetur irure ad excepteur amet quis labore ipsum quis nulla do. Dolor dolore officia aliquip irure amet officia sit duis. Qui aute eiusmod non mollit id qui nostrud laborum est et eiusmod dolore.\r\n",
+    "registered": "2020-06-05T08:51:35 -05:00",
+    "latitude": -72.369203,
+    "longitude": -20.955951,
+    "tags": [
+      "nostrud",
+      "sunt",
+      "sit",
+      "aliquip",
+      "aute",
+      "proident",
+      "culpa"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sylvia Hall"
+      },
+      {
+        "id": 1,
+        "name": "Adela Schroeder"
+      },
+      {
+        "id": 2,
+        "name": "Charmaine Larsen"
+      }
+    ],
+    "greeting": "Hello, Olivia Flores! You have 10 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
